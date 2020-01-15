@@ -1,0 +1,9 @@
+C:\Users\aykut\source\repos\Led Kontrol App\Led Kontrol App\bin\Debug\Led Kontrol App.exe.config
+C:\Users\aykut\source\repos\Led Kontrol App\Led Kontrol App\bin\Debug\Led Kontrol App.exe
+C:\Users\aykut\source\repos\Led Kontrol App\Led Kontrol App\bin\Debug\Led Kontrol App.pdb
+C:\Users\aykut\source\repos\Led Kontrol App\Led Kontrol App\obj\Debug\Led Kontrol App.csprojAssemblyReference.cache
+C:\Users\aykut\source\repos\Led Kontrol App\Led Kontrol App\obj\Debug\Led_Kontrol_App.Form1.resources
+C:\Users\aykut\source\repos\Led Kontrol App\Led Kontrol App\obj\Debug\Led_Kontrol_App.Properties.Resources.resources
+C:\Users\aykut\source\repos\Led Kontrol App\Led Kontrol App\obj\Debug\Led Kontrol App.csproj.GenerateResource.cache
+C:\Users\aykut\source\repos\Led Kontrol App\Led Kontrol App\obj\Debug\Led Kontrol App.exe
+C:\Users\aykut\source\repos\Led Kontrol App\Led Kontrol App\obj\Debug\Led Kontrol App.pdb
