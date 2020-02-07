@@ -1,0 +1,9 @@
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\bin\Debug\yakinlik_sensor.exe.config
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\bin\Debug\yakinlik_sensor.exe
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\bin\Debug\yakinlik_sensor.pdb
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.csprojAssemblyReference.cache
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.Form1.resources
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.Properties.Resources.resources
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.csproj.GenerateResource.cache
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.exe
+C:\Users\aykut\source\repos\yakinlik_sensor\yakinlik_sensor\obj\Debug\yakinlik_sensor.pdb
